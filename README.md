@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael Eyitayo</h1>
-<h3 align="center">Javascript, React, Next.js and Node.js developer</h3>
+<h3 align="center">Javascript & Typescript developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaeleyitayo&label=Profile%20views&color=0e75b6&style=flat" alt="michaeleyitayo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaeleyitayo" alt="michaeleyitayo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m_eyit" target="blank"><img src="https://img.shields.io/twitter/follow/m_eyit?logo=twitter&style=for-the-badge" alt="m_eyit" /></a> </p>
-
-- 🔭 I’m currently the **Lead Software Engineer at Digital Abundance**
 
 - 📫 How to reach me **michaeleyitayo.dev@gmail.com**
 
